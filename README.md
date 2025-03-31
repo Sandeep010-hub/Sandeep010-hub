@@ -1,18 +1,37 @@
 # 💫 About Me:
-👋 Hi, I'm Sai Sandeep Kalagatla, a passionate MERN stack developer with a growing interest in AI-based applications. I have completed an internship focusing on full-stack development and am currently working on projects that challenge my skills in MongoDB, Express.js, React, and Node.js.<br><br>🔭 Currently, I’m working on a personal project to build scalable web applications, while also exploring how AI can enhance user experience and functionality.<br><br>🌱 I’m diving into AI and machine learning, learning how to integrate intelligent systems into web applications.<br><br>💬 Let's collaborate on open-source projects or discuss AI, web technologies, and more. I'm always open to feedback and sharing knowledge.<br><br>🚀 In addition to MERN and AI, I’m exploring tools like Docker, GraphQL, and Next.js to broaden my development skills.<br><br>⚡ Fun fact: I enjoy solving coding challenges and experimenting with AI-driven frameworks.
 
+👋 Hi, I'm **Sai Sandeep Kalagatla**, a passionate **MERN stack developer** with a strong interest in **AI-based applications** and **software innovation**. As the **Co-founder and CLO of Webortex**, I lead technology-driven initiatives, ensuring seamless product development and strategic growth.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yaswanth Sai Sandeep Kalagatla ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sai Sandeep Kalagatla) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sea_Measurement_8084) 
+## 🚀 Experience:
+- **Co-founder & CLO, Webortex** – Leading AI-driven web solutions and business growth strategies.
+- **Web Developer Intern, SYNXAIT Pvt Ltd** – Hands-on experience in full-stack development, database administration, and API integration.
+- **MERN Stack Developer** – Developed multiple scalable web applications with **MongoDB, Express.js, React, and Node.js**.
+- **Software Engineering Enthusiast** – Exploring **AI, Machine Learning, and Next.js** to enhance web applications and user experiences.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sandeep010-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sandeep010-hub&theme=dark&hide_border=false)<br/>
+## 🔭 What I’m Working On:
+- Building **scalable AI-powered web applications**.
+- Exploring **AI integration in web development**.
+- Enhancing my expertise in **Docker, GraphQL, and cloud technologies**.
+
+## 🌱 Skills & Interests:
+- **Web Development**: MERN, Next.js, Angular, Bootstrap, Tailwind.
+- **Backend & Databases**: Node.js, Express.js, MongoDB, MySQL, Firebase.
+- **AI & ML**: Exploring Python-based AI frameworks for web applications.
+- **DevOps & Cloud**: Docker, AWS, Git, CI/CD pipelines.
+- **Creative Technologies**: Figma, Canva, UI/UX design.
+
+## 💬 Let’s Collaborate:
+Open to discussions on **AI, web technologies, and open-source projects**! Whether it’s **mentorship, brainstorming ideas, or building something innovative**, I’m always excited to connect.
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YaswanthSaiSandeepKalagatla) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeep010-hub)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sandeep010-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sandeep010-hub&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep010-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sandeep010-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sandeep010-hub&icon=0&color=0)](https://visitcount.itsvg.in/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
